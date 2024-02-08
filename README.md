@@ -1,6 +1,6 @@
 # Azure Machine Learning (Bootcamp DIO)
 
-Este repositório foi criado para poder registrar o passo-a-passo feito no projeto **Trabalhando com Machine Learning na Prática no Azure ML** do [Bootcamp Microsoft Azure AI Fundamentals](https://www.dio.me/bootcamp/microsoft-azure-ai-fundamentals), por meio da plataforma [DIO](https://www.dio.me).
+Este repositório foi criado para poder registrar o passo a passo feito no projeto **Trabalhando com Machine Learning na Prática no Azure ML** do [Bootcamp Microsoft Azure AI Fundamentals](https://www.dio.me/bootcamp/microsoft-azure-ai-fundamentals), por meio da plataforma [DIO](https://www.dio.me).
 
 ## Etapas realizadas durante o projeto
 
