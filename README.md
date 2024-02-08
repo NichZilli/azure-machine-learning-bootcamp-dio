@@ -1,1 +1,1 @@
-# azure-machine-learning-bootcamp-dio
+# Azure Machine Learning (Bootcamp DIO)
